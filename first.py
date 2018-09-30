@@ -1,5 +1,7 @@
 
-print "Hello Napier"
+print "Hello Napier" 
+
+print "Test Succeeded! :D"
 
 
 
